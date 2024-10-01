@@ -1,0 +1,99 @@
+header{
+    background-color: grey;
+    text-align: center;
+    color: white;
+    padding: 5px;
+    width: 100%;
+    font-size: larger;
+    border: 2px solid black;
+}
+body{
+    background-color:whitesmoke;
+}
+#cap {
+    font-size: 15px;
+}
+.espresso {
+    width: 260px;
+    padding: 20px;
+    padding-bottom: 5px;
+}
+.beans {
+    background-color: white;
+    width:300px;
+    position: absolute;
+    top:20%;
+    left:16%;
+}
+p{
+    text-align: center;
+    b{
+        text-decoration: underline;
+    }
+}
+.latte {
+    width: 260px;
+    padding: 20px;
+    padding-bottom: 5px;
+}
+.two{
+    background-color: white;
+    width: 300px;
+    position: absolute;
+    top:20%;
+    left: 40%;
+}
+.cappuccino {
+    width: 260px;
+    padding: 20px;
+    padding-bottom: 5px;
+}
+.three{
+    background-color: white;
+    width: 300px;
+    position: absolute;
+    top:20%;
+    left: 64%;
+}
+.gh{
+    width: 260px;
+    padding: 20px;
+    padding-bottom: 5px;
+}
+.four{
+    background-color: white;
+    width: 300px;
+    position: absolute;
+    top:75%;
+    left: 16%;
+}
+.ij{
+    width: 260px;
+    padding: 20px;
+    padding-bottom: 5px;
+}
+.five{
+    background-color: white;
+    width: 300px;
+    position: absolute;
+    top:75%;
+    left:40%;
+}
+.kl{
+    width: 260px;
+    padding:20px;
+    padding-bottom: 5px;
+}
+.six{
+    background-color: white;
+    width: 300px;
+    position: absolute;
+    top: 75%;
+    left: 64%;
+}
+h3{
+    background-color: grey;
+    text-align: center;
+    margin-top: 110vh;
+    padding: 20px;
+}
